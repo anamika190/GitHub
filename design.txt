@@ -1,0 +1,5 @@
+step 1: Start the program
+step 2: asks user to enter name, email and phone number
+step 3: print "saved details"
+step 4: show the user inputed details
+step 5: stop the program
